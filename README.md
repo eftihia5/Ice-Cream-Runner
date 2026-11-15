@@ -20,4 +20,4 @@
 4. Open the `MainScene` (or your specific scene name) in the `Assets/Scenes` folder.
 5. Press the **Play** button in the Unity Editor to start running!
 
-<video src="https://github.com/user-attachments/assets/fb16511c-628b-4669-b6b6-7143e5b99a92" width="50" controls></video>
+https://github.com/user-attachments/assets/fb16511c-628b-4669-b6b6-7143e5b99a92
